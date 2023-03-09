@@ -1,6 +1,4 @@
-# OOP
-C++ projects (Horserace, Course registration, Coffee machine) 
-Horserace program with betting
-Course registration for university program
-Coffe machine with transaction
+1.Horserace program with betting
+2.Course registration for university program
+3.Coffe machine with transaction
 
